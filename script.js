@@ -61,7 +61,7 @@ function createDivsForColors(colorArray) {
   }
 }
 
-// TODO: Implement this function!
+
 function handleCardClick(event) {
   if (noClicks) return;
   if (event.target.classList.contains("flipped")) return;
